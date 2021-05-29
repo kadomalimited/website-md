@@ -2,4 +2,4 @@
 
 - bullet
 
-[topic]
+[topic](topic/)
